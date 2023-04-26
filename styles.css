@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.container{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+ 
+}
+.item{
+background-color: red;
+height: 200px;
+width: 20%;
+margin: 10px;
+text-align: center;
+
+}
